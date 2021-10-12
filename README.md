@@ -17,8 +17,22 @@ Abreviado como IG, es una aplicación y red social de origen estadounidense, pro
 	A pesar de que existen otras redes en las que se pueden compartir fotografías, parece que Instagram ha tomado la delantera, y ninguna otra, por más calidad fotográfica o más opciones de filtros que tenga va a ganarle terreno, al menos por el momento.
 	
 	
----------------------------------------------------------------------------
-----------------
+-------------------------------------------------------
+----
+
+
+# Funcionalidades
+
+1. Historias destacadas
+2. Etiquetar - vista de la persona que fue etiquetada
+3. Actualización de información de perfil
+4. Creación de post (foto - video)
+5. Búsqueda
+6. Tienda
+
+----------
+--------
+
 > ASIGNATURA
 **CALIDAD DE SOFTWARE**
 
