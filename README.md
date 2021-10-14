@@ -1,7 +1,7 @@
 # Instagram
 
 
-### CONEPTO DE INSTAGRAM
+### CONCEPTO DE INSTAGRAM
 
 Abreviado como IG, es una aplicación y red social de origen estadounidense, propiedad de Facebook, cuya función principal es poder compartir fotografías y vídeos con otros usuarios. Está disponible para dispositivos Android, iOS y Windows 10.
 
