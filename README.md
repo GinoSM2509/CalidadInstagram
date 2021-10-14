@@ -30,6 +30,9 @@ Abreviado como IG, es una aplicación y red social de origen estadounidense, pro
 5. Búsqueda
 6. Tienda
 
+<img width="530" alt="Captura de Pantalla 2021-10-13 a la(s) 20 37 59" src="https://user-images.githubusercontent.com/6600079/137235917-fa217f1f-ad19-4bd0-ac5a-23cfb9db8c43.png">
+
+
 ----------
 --------
 
